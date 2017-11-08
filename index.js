@@ -23,4 +23,3 @@ function dec(a) {
 function makeInt(a) {
   parseInt(a.toString());
   return a;
-
