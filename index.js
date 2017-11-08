@@ -1,4 +1,4 @@
-var a, b
+var a, b, n
 a = Math.floor(Math.random() * 1000)
 b = Math.floor(Math.random() * 1000)
 
@@ -13,4 +13,7 @@ function multiply(a,b) {
 }
 function divide(a,b) {
   return a / b;
+}
+function inc(n) {
+  return a++;
 }
