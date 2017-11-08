@@ -20,6 +20,6 @@ function inc(a) {
 function dec(a) {
     return a - 1;
 }
-function makeInt(a) {
-  parseInt(a.toString());
+function makeInt('a') {
+  parseInt(a);
   return a;
