@@ -24,4 +24,3 @@ function makeInt(a) {
   a.toString = parseInt(a);
   return a;
 }
-  
